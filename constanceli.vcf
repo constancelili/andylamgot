@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Li;Constance;;;
+FN: Constance Li
+ORG: Manner Production Limited
+TITLE: Account Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:constanceli@weilamanner.com
+TEL;type=WORK;type=VOICE:+852 61794920
+item1.ADR;type=WORK;type=pref:;;Rm 1811-12,18/F V-Point;18 Tang Lung St.;Causeway Bay;Hong Kong
+item1.X-ABADR:hk
+item2.URL;type=pref:https://www.weilamanner.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

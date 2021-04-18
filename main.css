@@ -51,7 +51,7 @@ img.profile-pic {
 
 img.company-logo {
 	margin-right: 0;
-	height: 88px;
+	height: 100px;
 	width: auto;
 }
 
@@ -174,11 +174,11 @@ img.company-logo {
 }
 
 .bg-color-navbar {
-	background: #00122A;
+	background: #f7b23a;
 }
 
 .bg-color-hero {
-	background: linear-gradient(#2F80ED, #2D9CDB, #2D9CDB 59.4%, #FFFFFF 59.4%);
+	background: linear-gradient(#f7b23a, #ef8902 60%, #FFFFFF 60%);
 }
 
 .bg-color-white {
@@ -332,7 +332,7 @@ img.company-logo {
 	left: 0;
 	z-index: 2;
 	position: fixed;
-	background-color: #00122A;
+	background-color: #ffffff;
 	opacity: 0.9;
 	width: 100%;
 	height: 100%;
