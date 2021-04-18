@@ -1,4 +1,4 @@
-# digital-namecard
+# digital-namecard @andylamgot
 Business cards are quite a pain to carry around.
 
 You never quite know how many to bring along to a meeting or a work-related event. And there’s that awkward moment mid-handshake when you’ve realized that you’re out of business cards.
